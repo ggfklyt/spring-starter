@@ -1,7 +1,7 @@
 package com.nonsuch1.spring.service;
 
-import com.nonsuch1.spring.database.repository.CompanyRepository;
 import com.nonsuch1.spring.database.repository.UserRepository;
+import com.nonsuch1.spring.repository.CompanyRepository;
 
 public class UserService {
 
